@@ -1,7 +1,7 @@
 import React from "react";
+import profilePhoto from "../assets/profile.jpg"; // Ensure the image is in the correct path
 
 const Usercard = () => {
-  const profilePhoto = "https://imgur.com/a/wb5OCgB";
   const name = "Shivansh Garg";
   const email = "shivanshgarg007@gmail.com";
   const phone = "889907XXXX";
